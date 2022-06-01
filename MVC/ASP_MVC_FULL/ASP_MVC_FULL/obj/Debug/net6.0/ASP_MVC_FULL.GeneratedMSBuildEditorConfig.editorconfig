@@ -19,8 +19,36 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/ASP_LEARN/ASP_NETLEARN/MVC/ASP_MVC_FULL/ASP_MVC_FULL/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP_LEARN/ASP_NETLEARN/MVC/ASP_MVC_FULL/ASP_MVC_FULL/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/ASP_LEARN/ASP_NETLEARN/MVC/ASP_MVC_FULL/ASP_MVC_FULL/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP_LEARN/ASP_NETLEARN/MVC/ASP_MVC_FULL/ASP_MVC_FULL/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP_LEARN/ASP_NETLEARN/MVC/ASP_MVC_FULL/ASP_MVC_FULL/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP_LEARN/ASP_NETLEARN/MVC/ASP_MVC_FULL/ASP_MVC_FULL/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP_LEARN/ASP_NETLEARN/MVC/ASP_MVC_FULL/ASP_MVC_FULL/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP_LEARN/ASP_NETLEARN/MVC/ASP_MVC_FULL/ASP_MVC_FULL/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/ASP_LEARN/ASP_NETLEARN/MVC/ASP_MVC_FULL/ASP_MVC_FULL/Views/Home/Index.cshtml]
@@ -33,6 +61,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/ASP_LEARN/ASP_NETLEARN/MVC/ASP_MVC_FULL/ASP_MVC_FULL/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP_LEARN/ASP_NETLEARN/MVC/ASP_MVC_FULL/ASP_MVC_FULL/Views/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/ASP_LEARN/ASP_NETLEARN/MVC/ASP_MVC_FULL/ASP_MVC_FULL/Views/Shared/_ValidationScriptsPartial.cshtml]

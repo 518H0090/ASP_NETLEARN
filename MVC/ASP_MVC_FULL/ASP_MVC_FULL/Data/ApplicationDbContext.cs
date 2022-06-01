@@ -11,5 +11,6 @@ namespace ASP_MVC_FULL.Data
         }
 
         public DbSet<Category> categories { get; set; }
+        public DbSet<Employee> employees { get; set; }
     }
 }
