@@ -11,5 +11,6 @@ namespace Razor_Basic.Data
         }
 
         public DbSet<Category> categories { get; set; }
+        public DbSet<Employee> employees { get; set; }
     }
 }

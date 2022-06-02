@@ -15,8 +15,40 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = D:\ASP_LEARN\ASP_NETLEARN\Razor_pages\Razor_Basic\Razor_Basic
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/ASP_LEARN/ASP_NETLEARN/Razor_pages/Razor_Basic/Razor_Basic/Pages/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP_LEARN/ASP_NETLEARN/Razor_pages/Razor_Basic/Razor_Basic/Pages/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP_LEARN/ASP_NETLEARN/Razor_pages/Razor_Basic/Razor_Basic/Pages/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/ASP_LEARN/ASP_NETLEARN/Razor_pages/Razor_Basic/Razor_Basic/Pages/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP_LEARN/ASP_NETLEARN/Razor_pages/Razor_Basic/Razor_Basic/Pages/Employees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP_LEARN/ASP_NETLEARN/Razor_pages/Razor_Basic/Razor_Basic/Pages/Employees/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP_LEARN/ASP_NETLEARN/Razor_pages/Razor_Basic/Razor_Basic/Pages/Employees/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP_LEARN/ASP_NETLEARN/Razor_pages/Razor_Basic/Razor_Basic/Pages/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP_LEARN/ASP_NETLEARN/Razor_pages/Razor_Basic/Razor_Basic/Pages/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/ASP_LEARN/ASP_NETLEARN/Razor_pages/Razor_Basic/Razor_Basic/Pages/Error.cshtml]
@@ -29,6 +61,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/ASP_LEARN/ASP_NETLEARN/Razor_pages/Razor_Basic/Razor_Basic/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP_LEARN/ASP_NETLEARN/Razor_pages/Razor_Basic/Razor_Basic/Pages/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/ASP_LEARN/ASP_NETLEARN/Razor_pages/Razor_Basic/Razor_Basic/Pages/Shared/_ValidationScriptsPartial.cshtml]

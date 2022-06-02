@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8HY3oKKAoCgW/Y+bQY9alLQbcBiEOFh8t7EBG+jHa1Y=",
+  "Hash": "LFf+msSRQewS1qpvvS4nqySBc0RzTYrRH0LedJVoq6s=",
   "Source": "Razor_Basic",
   "BasePath": "_content/Razor_Basic",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\ASP_LEARN\\ASP_NETLEARN\\Razor_pages\\Razor_Basic\\Razor_Basic\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Razor_Basic.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\ASP_LEARN\\ASP_NETLEARN\\Razor_pages\\Razor_Basic\\Razor_Basic\\wwwroot\\css\\boostrapWatch.css",
+      "SourceId": "Razor_Basic",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP_LEARN\\ASP_NETLEARN\\Razor_pages\\Razor_Basic\\Razor_Basic\\wwwroot\\",
+      "BasePath": "_content/Razor_Basic",
+      "RelativePath": "css/boostrapWatch.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\boostrapWatch.css"
     },
     {
       "Identity": "D:\\ASP_LEARN\\ASP_NETLEARN\\Razor_pages\\Razor_Basic\\Razor_Basic\\wwwroot\\css\\site.css",
