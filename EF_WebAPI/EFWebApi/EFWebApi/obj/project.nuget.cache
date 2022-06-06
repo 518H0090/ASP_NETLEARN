@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bSAr4FDy6WMC+O34HC77dv+tMuO0/fAqtOy/HcbIK2FegrRk9y8pabmZT+8K4ZI2qXHgiLyTRAsWEmnoS/oNKQ==",
+  "success": true,
+  "projectFilePath": "D:\\ASP_LEARN\\ASP_NETLEARN\\EF_WebAPI\\EFWebApi\\EFWebApi\\EFWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TRUNG HIEU PC3\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\TRUNG HIEU PC3\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\TRUNG HIEU PC3\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\TRUNG HIEU PC3\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\TRUNG HIEU PC3\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\TRUNG HIEU PC3\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
