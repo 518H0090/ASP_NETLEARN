@@ -1,0 +1,300 @@
+﻿++Solution 'Razor_Basic' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Razor_Basic.sln
+++Razor_Basic
+i:{00000000-0000-0000-0000-000000000000}:Razor_Basic
+++Connected Services 
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:>1503
+++Dependencies
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:>1502
+++Properties
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\properties\
+++wwwroot
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\
+++css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\css\
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\
+++boostrapWatch.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\css\boostrapwatch.css
+++site.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\css\site.css
+++js
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\js\
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\
+++favicon.ico
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\favicon.ico
+++Data
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\data\
+++ApplicationDbContext.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\data\applicationdbcontext.cs
+++Migrations
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\migrations\
+++Models
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\models\
+++Category.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\models\category.cs
+++Employee.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\models\employee.cs
+++Pages
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\
+++Categories
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\categories\
+++Employees
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\employees\
+++Create.cshtml
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\employees\create.cshtml
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\categories\create.cshtml
+++Delete.cshtml
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\employees\delete.cshtml
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\categories\delete.cshtml
+++Details.cshtml
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\employees\details.cshtml
+++Details.cshtml.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\employees\details.cshtml.cs
+++Edit.cshtml
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\employees\edit.cshtml
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\categories\edit.cshtml
+++Edit.cshtml.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\employees\edit.cshtml.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\categories\edit.cshtml.cs
+++Index.cshtml
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\employees\index.cshtml
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\index.cshtml
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\categories\index.cshtml
+++Shared
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\shared\
+++_ViewImports.cshtml
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\_viewstart.cshtml
+++Error.cshtml
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\error.cshtml
+++Privacy.cshtml
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\privacy.cshtml
+++Privacy.cshtml.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\privacy.cshtml.cs
+++appsettings.json
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\appsettings.json
+++Program.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\program.cs
+++No service dependencies discovered
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:>1504
+++Analyzers
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:analyzers
+++Frameworks
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:frameworks
+++Packages
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:packages
+++launchSettings.json
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\properties\launchsettings.json
+++site.js
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\js\site.js
+++bootstrap
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\
+++jquery
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\jquery\
+++jquery-validation
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\jquery-validation-unobtrusive\
+++20220602083231_AddCategoryToDB.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\migrations\20220602083231_addcategorytodb.cs
+++20220602140527_AddEmployee.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\migrations\20220602140527_addemployee.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\migrations\applicationdbcontextmodelsnapshot.cs
+++Create.cshtml.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\employees\create.cshtml.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\categories\create.cshtml.cs
+++Delete.cshtml.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\employees\delete.cshtml.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\categories\delete.cshtml.cs
+++Index.cshtml.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\employees\index.cshtml.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\index.cshtml.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\categories\index.cshtml.cs
+++_Layout.cshtml
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\shared\_layout.cshtml
+++_Notification.cshtml
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\shared\_notification.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\shared\_validationscriptspartial.cshtml
+++Error.cshtml.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\error.cshtml.cs
+++appsettings.Development.json
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\appsettings.development.json
+++C:\Program Files\dotnet\sdk\6.0.203\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.203\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Components.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.203\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Mvc.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.203\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.203\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
+++Microsoft.AspNetCore.App
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\microsoft.netcore.app
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (6.0.5)
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:>1515
+++Microsoft.EntityFrameworkCore (6.0.5)
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:>1516
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.5)
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:>1517
+++Microsoft.EntityFrameworkCore.Tools (6.0.5)
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:>1519
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.5)
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:>1520
+++Swashbuckle.AspNetCore (6.3.0)
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:>1518
+++dist
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\jquery\dist\
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\jquery\license.txt
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++20220602083231_AddCategoryToDB.Designer.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\migrations\20220602083231_addcategorytodb.designer.cs
+++20220602140527_AddEmployee.Designer.cs
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\migrations\20220602140527_addemployee.designer.cs
+++_Layout.cshtml.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\pages\shared\_layout.cshtml.css
+++jquery.js
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:d:\asp_learn\asp_netlearn\razor_pages\razor_basic\razor_basic\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++MessagePackAnalyzer
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:c:\users\trung hieu pc3\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:c:\users\trung hieu pc3\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:c:\users\trung hieu pc3\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:c:\users\trung hieu pc3\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{6e53f2e7-4a5a-49d4-998a-30662b9fcb32}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
